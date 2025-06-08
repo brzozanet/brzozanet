@@ -10,7 +10,7 @@
 
 ### My stack
 
-<img align="left" width="32px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" />
+<img align="left" width="32px" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" />
 
 <img align="left" width="32px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png" />
 
