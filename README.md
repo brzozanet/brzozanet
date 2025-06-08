@@ -26,6 +26,8 @@
 
 <img align="left" width="32px" alt="MariaDB" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mariadb/mariadb.png" />
 
+<br>
+
 <img align="left" width="32px" alt="HTML5" src="http://raw.githubusercontent.com/github/explore/refs/heads/main/topics/html/html.png" />
 
 <img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/css/css.png" />
@@ -41,6 +43,8 @@
 <img align="left" width="32px" alt="npm" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/npm/npm.png" />
 
 <img align="left" width="32px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/terminal/terminal.png" />
+
+<br>
 
 <img align="left" width="32px" alt="Cursor" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4H5JRdhQKQH6T8DzUgKSUeiqz-R91qHY02wn7f-gjmzKmn_uiivgTNb-hhaBY3Is9lQ&usqp=CAU" />
 
