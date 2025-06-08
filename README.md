@@ -24,7 +24,7 @@
 
 <img align="left" width="32px" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mongodb/mongodb.png" />
 
-<img align="left" width="32px" alt="MariaDB" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mariadb/mariadb.png" />
+<img width="32px" alt="MariaDB" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mariadb/mariadb.png" />
 
 <br>
 
@@ -42,7 +42,7 @@
 
 <img align="left" width="32px" alt="npm" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/npm/npm.png" />
 
-<img align="left" width="32px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/terminal/terminal.png" />
+<img width="32px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/terminal/terminal.png" />
 
 <br>
 
@@ -52,4 +52,4 @@
 
 <img align="left" width="32px" alt="Postman" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postman/postman.png" />
 
-<img align="left" width="32px" alt="Figma" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/figma/figma.png" />
+<img width="32px" alt="Figma" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/figma/figma.png" />
