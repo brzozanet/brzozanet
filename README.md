@@ -46,6 +46,8 @@
 
 <img align="left" width="32px" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/visual-studio-code/visual-studio-code.png" />
 
+<img align="left" width="32px" alt="Vercel" title="Vercel" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" />
+
 <img align="left" width="32px" alt="Postman" title="Postman" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postman/postman.png" />
 
 <img align="left" width="32px" alt="PowerToys" title="PowerToys" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/powertoys/powertoys.png" />
