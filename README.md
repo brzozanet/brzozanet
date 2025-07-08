@@ -46,6 +46,8 @@
 
 <img align="left" width="32px" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/visual-studio-code/visual-studio-code.png" />
 
+<img align="left" width="32px" alt="Next.js" title="Next.js" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
+
 <img align="left" width="32px" alt="Vercel" title="Vercel" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" />
 
 <img align="left" width="32px" alt="Postman" title="Postman" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postman/postman.png" />
