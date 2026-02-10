@@ -1,4 +1,4 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
+<img alt="cover photo" title="cover photo" src="https://raw.githubusercontent.com/brzozanet/brzozanet/refs/heads/main/images/cover-coder.jpg" />
 
 ### Hi there, I'm Paweł👋
 
